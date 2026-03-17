@@ -1,0 +1,15 @@
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/bin/Debug/net6.0/PackageExpressShippingQuote
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/bin/Debug/net6.0/PackageExpressShippingQuote.deps.json
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/bin/Debug/net6.0/PackageExpressShippingQuote.runtimeconfig.json
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/bin/Debug/net6.0/PackageExpressShippingQuote.dll
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/bin/Debug/net6.0/PackageExpressShippingQuote.pdb
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.csproj.AssemblyReference.cache
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.AssemblyInfoInputs.cache
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.AssemblyInfo.cs
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.csproj.CoreCompileInputs.cache
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.dll
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/refint/PackageExpressShippingQuote.dll
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.pdb
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/PackageExpressShippingQuote.genruntimeconfig.cache
+/Users/user/Projects/PackageExpressShippingQuote/PackageExpressShippingQuote/obj/Debug/net6.0/ref/PackageExpressShippingQuote.dll
