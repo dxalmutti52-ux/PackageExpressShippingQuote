@@ -44,5 +44,6 @@ class Program
         // Display the quote formatted as currency
         Console.WriteLine("Your estimated total for shipping this package is: $" + quote.ToString("0.00"));
         Console.WriteLine("Thank you!");
+        Console.ReadLine(); // Keeps the window open
     }
 }
